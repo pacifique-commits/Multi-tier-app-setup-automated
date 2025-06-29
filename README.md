@@ -1,4 +1,4 @@
-# 🚀 Vprofile Automated Setup with Vagrant
+#  Vprofile Automated Setup with Vagrant
 
 This project provisions a **multi-tier Vprofile application** using **Vagrant** and **shell scripts** for automation. It sets up:
 
